@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/st-one-io/node-red-contrib-cip-ethernet-ip.git"
+        "url": "https://github.com/SerafinTech/node-red-contrib-cip-st-ethernet-ip.git"
     },
     "bugs": {
         "url": "https://github.com/st-one-io/node-red-contrib-cip-ethernet-ip/issues"
@@ -39,5 +39,6 @@
         }
     },
     "author": "ST-One Ltda.",
-    "license": "GPL-3.0-or-later"
+    "license": "GPL-3.0-or-later",
+    "homepage": "https://github.com/SerafinTech/node-red-contrib-cip-st-ethernet-ip#readme"
 }
